@@ -1,0 +1,111 @@
+{
+    "HT": {
+        "waveform_id": 1,
+        "snr_db": 20,
+        "subcarrier_number": 52,
+        "output_power_dbm": 10,
+        "coding_rate": "1/2",
+        "bandwidth_mhz": 20,
+        "awgn": true
+    },
+
+    "HFH": {
+        "waveform_id": 2,
+        "snr_db": 18,
+        "subcarrier_number": 64,
+        "output_power_dbm": 10,
+        "coding_rate": "3/4",
+        "bandwidth_mhz": 20,
+        "awgn": true
+    },
+
+    "GMSK": {
+        "waveform_id": 3,
+        "snr_db": 15,
+        "subcarrier_number": 1,
+        "output_power_dbm": 12,
+        "coding_rate": "1/1",
+        "bandwidth_mhz": 1.2,
+        "awgn": false
+    },
+
+    "OFDM_2M": {
+        "waveform_id": 4,
+        "snr_db": 20,
+        "subcarrier_number": 48,
+        "output_power_dbm": 10,
+        "coding_rate": "1/2",
+        "bandwidth_mhz": 2,
+        "awgn": true
+    },
+
+    "OFDM_4M": {
+        "waveform_id": 5,
+        "snr_db": 20,
+        "subcarrier_number": 96,
+        "output_power_dbm": 10,
+        "coding_rate": "1/2",
+        "bandwidth_mhz": 4,
+        "awgn": true
+    },
+
+    "OFDM_8M": {
+        "waveform_id": 6,
+        "snr_db": 20,
+        "subcarrier_number": 192,
+        "output_power_dbm": 10,
+        "coding_rate": "3/4",
+        "bandwidth_mhz": 8,
+        "awgn": true
+    },
+
+    "OFDM_40M": {
+        "waveform_id": 7,
+        "snr_db": 25,
+        "subcarrier_number": 512,
+        "output_power_dbm": 10,
+        "coding_rate": "5/6",
+        "bandwidth_mhz": 40,
+        "awgn": true
+    },
+
+    "BLWF_QPSK": {
+        "waveform_id": 8,
+        "snr_db": 15,
+        "subcarrier_number": 64,
+        "output_power_dbm": 8,
+        "coding_rate": "1/2",
+        "bandwidth_mhz": 5,
+        "awgn": true
+    },
+
+    "BLWF_GMSK": {
+        "waveform_id": 9,
+        "snr_db": 12,
+        "subcarrier_number": 1,
+        "output_power_dbm": 8,
+        "coding_rate": "1/1",
+        "bandwidth_mhz": 1,
+        "awgn": false
+    },
+
+    "BLWF_8PSK": {
+        "waveform_id": 10,
+        "snr_db": 18,
+        "subcarrier_number": 64,
+        "output_power_dbm": 8,
+        "coding_rate": "3/4",
+        "bandwidth_mhz": 5,
+        "awgn": true
+    },
+
+    "OFDM_HFH": {
+        "waveform_id": 11,
+        "snr_db": 22,
+        "subcarrier_number": 256,
+        "output_power_dbm": 10,
+        "coding_rate": "3/4",
+        "bandwidth_mhz": 20,
+        "awgn": true
+    }
+}
